@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Wed Mar 02 10:46:13 EST 2022D001 : [0] The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585), [1] a816c00e-017f-4b4f-76f2-00000e0ea400, [2] C:\SE2203b\labs\5\TennisBallGames\TeamDB, [3] jdk.internal.loader.ClassLoaders$AppClassLoader@133314b, [4] file:/C:/SE2203b/labs/5/lib/derby.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=14.0.2+12
+user.dir=C:\SE2203b\labs\5\TennisBallGames
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+C005 : [0] 
